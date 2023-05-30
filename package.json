@@ -1,0 +1,19 @@
+{
+  "name": "back-end",
+  "version": "1.0.0",
+  "description": "Source Code Belajar Back End Untuk Pemula",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"echo \\\"Error: no test specified\\\" && exit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevinsimorangkir21/Back-End.git"
+  },
+  "author": "\"\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevinsimorangkir21/Back-End/issues"
+  },
+  "homepage": "https://github.com/kevinsimorangkir21/Back-End#readme"
+}
