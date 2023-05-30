@@ -18,5 +18,11 @@
   "homepage": "https://github.com/kevinsimorangkir21/Back-End#readme",
   "dependencies": {
     "moment": "^2.29.4"
+  },
+  "devDependencies": {},
+  "keywords": []
+  },
+  "scripts": {
+    "start": "node server.js"
   }
 }
